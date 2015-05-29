@@ -1,0 +1,78 @@
+Lost in Kochi
+
+Flags:
+0: Off= / On= 
+1: Off= / On= 
+2: Off=Wisdom not yet received / On= Wisdom received - triggered by cutscene WordsOfWisdom
+3: Off=Quest3 not completed / On= Quest3 completed - triggered by cutscene Quest3Complete
+4: Off=Quest3 not started / On= Quest3 started - triggered by cutscene Quest3Start
+5: Off=Quest2 not completed / On= Quest2 completed - triggered by cutscene Quest2Complete
+6: Off=Quest2 not started / On= Quest2 started - triggered by cutscene Quest2Start
+7: Off=Quest1 not completed / On= Quest1 completed - triggered by cutscene Quest1Complete
+8: Off=Quest1 not started / On= Quest1 started - triggered by cutscene Quest1Start
+9: Off=E/W world movement / On=N/S world movement - triggered at all crab gates
+
+
+
+Todo:
+
+Determine if ALL cutscenes remove additional powers, or just ones that activate flags
+
+To make:
+	Forest town:
+		tileset & gradient: based on lantern woods of Journey
+		tileset
+	Coast town
+	Mountain town
+	Willow Stream
+
+gems
+	make powers appear when tasked with gathering them?
+	sparkling animation should disappear when collected (cutscene for transition?)
+	upon gathering a gem, have the (crab spirit? gem guardian?) impart wisdom piece housed in that temple
+	temples house one each of the eightfold path 
+	http://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation#Noble_Eightfold_Path
+	http://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html
+	There are 9 temples, 6/2/1. 6/2 house the eightfold path, 1 houses the final two (development of wisdom)
+
+storyline!
+	INTRO: at home, reason for going out
+		-grandma told a story about the great crab (see history below)
+		-want to learn about her, told of ancient old tower deep in the woods to the north of NCC
+		-"Better grab my umbrella"
+	PART2: at hero temple first time
+		-crab spirit offers challenge of character to prove herself
+		-tasks juni with gathering the 6 elemental gems from their temples
+		-gives first four powers (run, climb, high jump, 2x jump)
+	PART3: at hero temple second time
+		-path upward to light/dark floor opens
+		-tasked with gathering the 2 force gems from their temples
+		-unlocks temples
+		-gives second two powers (eye, hologram)
+	PART4: at hero temple third time
+		-path upward to cosmos floor opens
+		-unlocks temple
+		-tasked with gathering the cosmos gem from its temple
+	PART5: at hero temple fourth time
+		-character proven, words of wisdom
+		-powers taken back?
+	ENDING: at home
+		-"all grown up now" or something
+
+history!
+	Millenia ago, the people of the land were constantly at war with themselves and each other, a very wise woman formulated a course that would set the world on the path of peace.
+	Her name was Crab. She wasn't literally a crab, that was her name. She was a person like you and me, just very wise.
+	She unified the land and established great peace. Her followers recorded her wisdom, housing it in temples across the land and passing it down through the centuries.
+	Eventually, her wisdom was all but forgotten, the temples were abandoned, and the people lost their way.
+	There was a brief resurgence in popularity many years ago, but since most of the writings had been lost, they actually thought she *was* a crab, and erected statues and houses of learning in her honor in the shapes of crabs.
+	But once again, the people in general have lost the guiding widsom of the great and wise Crab.
+	Perhaps it is time for the great Crab's wisdom to shine once again.
+
+
+	
+temples (0/9)
+	have dark/light temples only open when the 6 elemental gems are gathered AND tasked with gathering black/white
+	have cosmos temple only open w/ dark/light AND when tasked with gathering magenta
+
+draw a map
+	5 cutscenes, each centered on an east/west row but show the row north/south
