@@ -34,6 +34,8 @@ gems
 	http://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation#Noble_Eightfold_Path
 	http://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html
 	There are 9 temples, 6/2/1. 6/2 house the eightfold path, 1 houses the final two (development of wisdom)
+	Each time a quest is completed, one of the four noble truths are related:
+	https://en.wikipedia.org/wiki/Four_Noble_Truths#Explanation_of_the_four_truths
 
 storyline!
 	INTRO: at home, reason for going out
@@ -44,20 +46,24 @@ storyline!
 		-crab spirit offers challenge of character to prove herself
 		-tasks juni with gathering the 6 elemental gems from their temples
 		-gives first four powers (run, climb, high jump, 2x jump)
+		-Noble truth #1 imparted
 	PART3: at hero temple second time
 		-path upward to light/dark floor opens
+		-Noble truth #2 imparted
 		-tasked with gathering the 2 force gems from their temples
 		-unlocks temples
 		-gives second two powers (eye, hologram)
 	PART4: at hero temple third time
 		-path upward to cosmos floor opens
+		-Noble truth #3 imparted
 		-unlocks temple
 		-tasked with gathering the cosmos gem from its temple
 	PART5: at hero temple fourth time
 		-character proven, words of wisdom
+		-Noble truth #4 explained (as gathered in the temples)
 		-powers taken back?
 	ENDING: at home
-		-"all grown up now" or something
+		-"follow the path of Crab" or something
 
 history!
 	Millenia ago, the people of the land were constantly at war with themselves and each other, a very wise woman formulated a course that would set the world on the path of peace.
@@ -73,6 +79,22 @@ history!
 temples (0/9)
 	have dark/light temples only open when the 6 elemental gems are gathered AND tasked with gathering black/white
 	have cosmos temple only open w/ dark/light AND when tasked with gathering magenta
+	first round temples (6) are super easy (nonexistant/basic platforming, nonexistant/basic puzzles, maybe no enemies?)
+	second round temples (2) are easy (basic/moderate platforming, basic/moderate puzzles, a couple of enemies?)
+	third round temple (1) is medium (moderate/tricky platforming, moderate/tricky puzzles, light enemies)
+
+warp
+	maybe?
+	once a gem is collected, can warp from hero tower to its temple's entrance, but not the other way? both ways?
 
 draw a map
 	5 cutscenes, each centered on an east/west row but show the row north/south
+
+bonus spots: tiny little spots hidden throughout the world, each with a loyal follower dispensing a tidbit of wisdom (TBD)
+	how many?
+	approach should be tricky (medium difficulty as compared with the primary game's easy difficulty)
+	should only require "basic" powerups to reach
+	should give wisdom in sequence, no matter which one is found first, should dispense wisdom #0, etc
+	https://en.wikipedia.org/wiki/Brahmavihara
+	https://en.wikipedia.org/wiki/P%C4%81ramit%C4%81
+	https://en.wikipedia.org/wiki/Ayatana
